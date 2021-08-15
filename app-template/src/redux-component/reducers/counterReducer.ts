@@ -1,7 +1,7 @@
 import { Reducer } from "redux";
 import { IChangeValue, ChangeValueTypes } from "../actions";
 
-const initialState: number = -1
+const initialState: number = 0
 
 export const counterReducer: Reducer<number, IChangeValue> = (oldState = initialState, action) => {
     let { value, type } = action;
