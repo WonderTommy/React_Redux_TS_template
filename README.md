@@ -1,4 +1,4 @@
-# React_Redux_TS_template
+# React Redux TS template
 This is a template for React project with Redux in typescript.
 By using this template, you can start a Redux project quickly.
 
