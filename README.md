@@ -3,9 +3,9 @@ This is a template for React project with Redux in typescript.
 By using this template, you can start a Redux project quickly.
 
 ## How to run this template
->Clone this repo and go to the app-template directory
->run `npm install` to install necessary components
->run `npm start` to run the project
+1. Clone this repo and go to the app-template directory
+2. run `npm install` to install necessary components
+3. run `npm start` to run the project
 
 ## What is available
 This template contains the basic components of a Redux app. \
