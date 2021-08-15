@@ -13,6 +13,6 @@ It has a number `value` and a boolean `isLogged` in the store. \
 Clicking on corresponding buttons can change the value. \
 The corresponding actions, reducers and selectors are implemented. \
 The redux components are in the `redux-component` directory. \
-Chrome extension `redux Devtool` is helpful for inspecting the actions. \
+Chrome extension `redux Devtool` is helpful for inspecting the actions.
 
 
